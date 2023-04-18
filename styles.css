@@ -6,21 +6,26 @@
 	background-color : #f8f8f8;
 }
 .book-library {
+	display : block;
 	background-color : #ffffff;
 	width : 600px;
 }
-img {
-	margin-left : auto;
-	margin-right : auto;
+.img {
+	text-align : center;
+	padding :0;
 }
 .book {
 	margin : 45px;
 }
 h6 {
-	background-color :  #2ecc71;
+	background-color : rgb(46, 204, 113);
+	text-align: center;
+	border-radius : 5px;
+	color : white;
 }
 .para {
-	background-color : #777777;
+	background-color : rgb(119, 119, 119);
+	color : rgb((128,128,128))
 }
 h1 {
 		padding : 5px;
