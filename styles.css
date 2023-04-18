@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+*{
+	margin : 0;
+}
+.bg{
+	background-color : #f8f8f8;
+}
+.book-library {
+	background-color : #ffffff;
+	width : 600px;
+}
+img {
+	margin-left : auto;
+	margin-right : auto;
+}
+.book {
+	margin : 45px;
+}
+h6 {
+	background-color :  #2ecc71;
+}
+.para {
+	background-color : #777777;
+}
+h1 {
+		padding : 5px;
+		text-align : center;
+		margin-bottom : 10px;
+}
