@@ -3,11 +3,11 @@
 	margin : 0;
 }
 .bg{
-	background-color : rgb(46, 204, 113);
+	background-color : ;
 }
 .book-library {
 	display : block;
-	background-color : #ffffff;
+	background-color : rgb(255, 255, 255);
 	width : 600px;
 }
 .img {
@@ -16,6 +16,7 @@
 }
 .book {
 	margin : 45px;
+	background-color : rgb(255, 255, 255);
 }
 h6 {
 	background-color : rgb(46, 204, 113);
